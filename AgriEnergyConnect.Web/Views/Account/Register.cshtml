@@ -1,0 +1,157 @@
+﻿@model AgriEnergyConnect.Web.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Farmer Registration";
+    
+}
+
+<div class="auth-container">
+    <div class="auth-card">
+        <div class="auth-header">
+            <img src="/images/logo-green.png" alt="AgriEnergyConnect Logo" class="auth-logo">
+            <h2 class="auth-title">Farmer Registration</h2>
+            <p class="auth-subtitle">Join our sustainable farming community</p>
+        </div>
+
+        <form asp-action="Register" method="post" class="auth-form">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="row g-2 mb-3">
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input asp-for="FirstName" class="form-control" placeholder="First Name" required />
+                        <label asp-for="FirstName">First Name</label>
+                        <span asp-validation-for="FirstName" class="text-danger small"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input asp-for="LastName" class="form-control" placeholder="Last Name" required />
+                        <label asp-for="LastName">Last Name</label>
+                        <span asp-validation-for="LastName" class="text-danger small"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Email" type="email" class="form-control" placeholder="Email Address" required />
+                <label asp-for="Email">Email Address</label>
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Password" type="password" class="form-control" placeholder="Password" required />
+                <label asp-for="Password">Password</label>
+                <span asp-validation-for="Password" class="text-danger small"></span>
+                <div class="password-requirements mt-1 small text-muted">
+                    <div class="form-text">Password must contain:</div>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-check-circle-fill text-success me-1"></i> At least 8 characters</li>
+                        <li><i class="bi bi-check-circle-fill text-success me-1"></i> 1 uppercase letter</li>
+                        <li><i class="bi bi-check-circle-fill text-success me-1"></i> 1 lowercase letter</li>
+                        <li><i class="bi bi-check-circle-fill text-success me-1"></i> 1 number</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="d-grid mb-3">
+                <button type="submit" class="btn btn-success btn-lg py-2">
+                    <i class="bi bi-person-plus me-2"></i> Register as Farmer
+                </button>
+            </div>
+
+            <div class="auth-footer text-center">
+                <p class="mb-0">Already have an account? <a asp-action="Login" class="text-success fw-bold">Sign in</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        :root {
+            --primary-green: #2e7d32;
+            --light-green: #e8f5e9;
+        }
+
+        .auth-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+            padding: 2rem;
+        }
+
+        .auth-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            width: 100%;
+            max-width: 500px;
+            overflow: hidden;
+        }
+
+        .auth-header {
+            padding: 2rem 2rem 1rem;
+            text-align: center;
+            background-color: var(--light-green);
+        }
+
+        .auth-logo {
+            height: 60px;
+            margin-bottom: 1rem;
+        }
+
+        .auth-title {
+            color: var(--primary-green);
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .auth-subtitle {
+            color: #6c757d;
+            margin-bottom: 0;
+        }
+
+        .auth-form {
+            padding: 2rem;
+        }
+
+        .form-control {
+            border-radius: 8px;
+            padding: 1rem;
+            border: 1px solid #e0e0e0;
+        }
+
+            .form-control:focus {
+                border-color: var(--primary-green);
+                box-shadow: 0 0 0 0.25rem rgba(46, 125, 50, 0.25);
+            }
+
+        .btn-success {
+            background-color: var(--primary-green);
+            border: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+            .btn-success:hover {
+                background-color: #1b5e20;
+                transform: translateY(-2px);
+            }
+
+        .password-requirements ul {
+            margin-top: 0.5rem;
+        }
+
+        .password-requirements li {
+            margin-bottom: 0.25rem;
+        }
+    </style>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

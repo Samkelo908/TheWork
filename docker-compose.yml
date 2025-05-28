@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: AgriEnergyConnect.Web/Dockerfile
+    ports:
+      - "1433:1433"
+    depends_on:
+      api:
+        condition: service_healthy
+    environment:
+      - ApiSettings__BaseUrl=http://api/
+      - ConnectionStrings__DefaultConnection="Server=host.docker.internal,1433;Database=AgriEnergyConnectDB;User=sa;Password=Str0ngP@ssw0rd123!;TrustServerCertificate=True;Encrypt=False;"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - JwtSettings__SecretKey=YourSuperSecretKeyHereAtLeast32CharactersLong
+      - JwtSettings__Issuer=AgriEnergyConnect
+      - JwtSettings__Audience=AgriEnergyConnectUsers
+      - JwtSettings__ExpiryInMinutes=1440
+    volumes:
+      - data_protection_keys:/root/.aspnet/DataProtection-Keys
+    networks:
+      - agrienergy-network
+
+  api:
+    build:
+      context: .
+      dockerfile: AgriEnergyConnect.API/Dockerfile
+    ports:
+      - "5001:80"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - ConnectionStrings__DefaultConnection="Server=host.docker.internal,1433;Database=AgriEnergyConnectDB;User=sa;Password=Str0ngP@ssw0rd123!;TrustServerCertificate=True;Encrypt=False;"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - JwtSettings__SecretKey=YourSuperSecretKeyHereAtLeast32CharactersLong
+      - JwtSettings__Issuer=AgriEnergyConnect
+      - JwtSettings__Audience=AgriEnergyConnectUsers
+      - JwtSettings__ExpiryInMinutes=1440
+    networks:
+      - agrienergy-network
+
+  db:
+    build:
+      context: ./AgriEnergyConnectDB
+      dockerfile: Dockerfile
+    container_name: agrienergy-db
+    environment:
+      SA_PASSWORD: "Str0ngP@ssw0rd123!"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Express"
+    ports:
+      - "1433:1433"
+      - "1400:1433"
+    volumes:
+      - db_data:/var/opt/mssql
+      - ./logs:/var/opt/mssql/log
+    
+    networks:
+      - agrienergy-network
+
+volumes:
+  db_data:
+  data_protection_keys:
+
+networks:
+  agrienergy-network:

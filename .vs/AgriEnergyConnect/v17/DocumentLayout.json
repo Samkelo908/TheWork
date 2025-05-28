@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\agrienergydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\agrienergydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgriEnergyConnectDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgriEnergyConnectDB\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\employee\\createfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\employee\\createfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\employee\\filteredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\employee\\filteredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\product\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\product\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\product\\farmerproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\product\\farmerproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\farmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\farmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\createfarmermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\createfarmermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api.tests\\controllerauth\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|solutionrelative:agrienergyconnect.api.tests\\controllerauth\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api.tests\\controller\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|solutionrelative:agrienergyconnect.api.tests\\controller\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api.tests\\helpers\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|solutionrelative:agrienergyconnect.api.tests\\helpers\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|solutionrelative:agrienergyconnect.api.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1014DF2-853A-44C2-97A7-44E445228D19}|AgriEnergyConnect.API.Tests\\AgriEnergyConnect.API.Tests.csproj|solutionrelative:agrienergyconnect.api.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\ifarmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\ifarmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\agrienergyconnect.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\agrienergyconnect.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\models\\farmermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\models\\farmermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\agrienergyschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\agrienergyschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\migrations\\20250511104530_adddecimalprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\migrations\\20250511104530_adddecimalprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\migrations\\20250511104530_adddecimalprecision.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\migrations\\20250511104530_adddecimalprecision.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\migrations\\20250511104109_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\migrations\\20250511104109_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\migrations\\20250511104109_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\migrations\\20250511104109_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\data\\migrations\\agrienergydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\data\\migrations\\agrienergydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\AppData\\Local\\Temp\\q25aalgi..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19A1D2C3-62A5-400D-B78A-BB38D8F08CC3}|AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj|solutionrelative:agrienergyconnect.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\update\\strata_bills_2\\vcnmb-prog7311-2025-part-2-samkelo908\\agrienergyconnect.api\\agrienergyconnect.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11EC7784-0FA0-4D7E-9736-AA10AADA6FCB}|AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj|solutionrelative:agrienergyconnect.api\\agrienergyconnect.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgriEnergyConnectDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-11T12:46:01.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "init-database.sql ",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\init-database.sql",
+              "RelativeDocumentMoniker": "AgriEnergyConnectDB\\init-database.sql",
+              "ToolTip": "init-database.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-11T12:24:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:53:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgriEnergyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\AgriEnergyDbContext.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\AgriEnergyDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\AgriEnergyDbContext.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\AgriEnergyDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:52:45.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModels.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\ProductModels.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Models\\ProductModels.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\ProductModels.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Models\\ProductModels.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:24:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\AuthModels.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:23:38.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\appsettings.Development.json",
+              "RelativeToolTip": "AgriEnergyConnect.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T14:19:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\appsettings.json",
+              "RelativeToolTip": "AgriEnergyConnect.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T14:19:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Program.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Program.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Program.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAIwLUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:42:10.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Dockerfile",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Dockerfile",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T14:21:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\Dockerfile",
+              "RelativeDocumentMoniker": "AgriEnergyConnectDB\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnectDB\\Dockerfile",
+              "RelativeToolTip": "AgriEnergyConnectDB\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T11:09:37.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T20:30:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAEIAAACAZWZmZiYwwE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:16:27.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAIsAAABwZmZmZiYwwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:41:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAQAAAIAZwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:38:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Employee\\CreateFarmer.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Employee\\CreateFarmer.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Employee\\CreateFarmer.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Employee\\CreateFarmer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:14:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilteredProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Employee\\FilteredProducts.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Employee\\FilteredProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Employee\\FilteredProducts.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Employee\\FilteredProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:17:15.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\MyProducts.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Product\\MyProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\MyProducts.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Product\\MyProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:18:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:17:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAEAAAAAAOTMzM7MhwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:43:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FarmerProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\FarmerProducts.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Product\\FarmerProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Product\\FarmerProducts.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Product\\FarmerProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:22:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAACAmZmZmdkhwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:12:38.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAC8AAAAANTMzMzP7v1gAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T21:11:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T21:09:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\AuthService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAZwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:04:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:13:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAZ2ZmZuYdwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:14:21.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\ProductModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAUAAABgAAAAAAASwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:08:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAamZmZmYRwA0BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:19:40.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:19:39.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:03:07.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\ProductService.cs",
+              "ViewState": "AgIAACcAAAAAzMzMzEwbwBABAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:15:09.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAALgAAADA/v///38kwA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:54:05.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FarmerService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\FarmerService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\FarmerService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\FarmerService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\FarmerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:39:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEoAAAAAAgAAAMAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:11:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateFarmerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\CreateFarmerModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\CreateFarmerModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\CreateFarmerModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\CreateFarmerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:12:51.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:14:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABYAAAAAYmZmZmbWvzsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:11:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:30:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:16:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Controller\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API.Tests\\Controller\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Controller\\ProductsControllerTests.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API.Tests\\Controller\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAEcAAACAmZmZmRkfwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:43:37.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\ControllerAuth\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API.Tests\\ControllerAuth\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\ControllerAuth\\AuthControllerTests.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API.Tests\\ControllerAuth\\AuthControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAANDMzM7MiwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:52:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Test1.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:30:10.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Helpers\\TestBase.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API.Tests\\Helpers\\TestBase.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API.Tests\\Helpers\\TestBase.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API.Tests\\Helpers\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:36:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FarmersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\FarmersController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Controllers\\FarmersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\FarmersController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Controllers\\FarmersController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:53:31.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IProductService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:14:13.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:23:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Dockerfile",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Dockerfile",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T11:08:37.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\appsettings.Development.json",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T10:25:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:13:25.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Program.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAMAkwE0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:19:38.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:08:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\UpdateProductModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\UpdateProductModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\UpdateProductModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\UpdateProductModel.cs",
+              "ViewState": "AgIAAAoAAADgzMzMzGwzwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:37:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:26:20.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\CreateProductModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\CreateProductModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\CreateProductModel.cs",
+              "ViewState": "AgIAAAIAAACOZmZmZiYwwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:09:47.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:28:44.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Models\\LoginModel.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:08:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:12:08.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IFarmerService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IFarmerService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\IFarmerService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IFarmerService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\IFarmerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:05:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AgriEnergyConnect.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\AgriEnergyConnect.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T10:17:55.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FarmerModels.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\FarmerModels.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Models\\FarmerModels.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Models\\FarmerModels.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Models\\FarmerModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:24:23.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\appsettings.json",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T12:43:24.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:07:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AgriEnergySchema.sql",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergySchema.sql",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\AgriEnergySchema.sql",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergySchema.sql",
+              "RelativeToolTip": "AgriEnergyConnect.API\\AgriEnergySchema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-11T19:42:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250511104530_AddDecimalPrecision.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:19:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250511104530_AddDecimalPrecision.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.Designer.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.Designer.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104530_AddDecimalPrecision.Designer.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAUwHEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:18:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250511104109_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.Designer.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAmwHEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:18:17.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250511104109_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\Migrations\\20250511104109_InitialCreate.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAmwAcBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:17:54.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AgriEnergyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\AgriEnergyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\Data\\Migrations\\AgriEnergyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\Data\\Migrations\\AgriEnergyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AgriEnergyConnect.API\\Data\\Migrations\\AgriEnergyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOMAAAAAZ2ZmZmYpwDIBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:54:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "q25aalgi..sql",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\AppData\\Local\\Temp\\q25aalgi..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\q25aalgi..sql",
+              "ToolTip": "C:\\Users\\lab_services_student\\AppData\\Local\\Temp\\q25aalgi..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\q25aalgi..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-11T14:38:06.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AgriEnergyConnect.API.http",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergyConnect.API.http",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\AgriEnergyConnect.API.http",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergyConnect.API.http",
+              "RelativeToolTip": "AgriEnergyConnect.API\\AgriEnergyConnect.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-11T14:21:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AgriEnergyConnect.API.csproj.user",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user",
+              "RelativeToolTip": "AgriEnergyConnect.API\\AgriEnergyConnect.API.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-11T13:32:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AgriEnergyConnect.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\update\\STRATA_Bills_2\\vcnmb-prog7311-2025-part-2-Samkelo908\\AgriEnergyConnect.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AgriEnergyConnect.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T12:53:52.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

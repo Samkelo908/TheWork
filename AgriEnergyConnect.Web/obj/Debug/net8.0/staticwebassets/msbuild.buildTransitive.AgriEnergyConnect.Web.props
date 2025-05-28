@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AgriEnergyConnect.Web.props" />
+</Project>

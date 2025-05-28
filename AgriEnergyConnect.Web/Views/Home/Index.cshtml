@@ -1,0 +1,146 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="hero-section">
+    <div class="container">
+        <h1 class="hero-title">Bridging Agriculture and Green Energy</h1>
+        <p class="hero-subtitle">
+            AgriEnergyConnect is revolutionizing South Africa's agricultural sector by connecting farmers with sustainable
+            energy solutions to power a greener future.
+        </p>
+        @if (!User.Identity.IsAuthenticated)
+        {
+            <div>
+                <a class="cta-button me-3" asp-controller="Account" asp-action="Register">Join Now</a>
+                <a class="cta-button" asp-controller="Account" asp-action="Login">Sign In</a>
+            </div>
+        }
+        else
+        {
+            <a class="cta-button" asp-controller="Home" asp-action="Dashboard">Go to Dashboard</a>
+        }
+    </div>
+</div>
+
+<section class="mission-section" id="about">
+    <div class="container">
+        <h2 class="text-center section-title">Our Mission</h2>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <p class="lead">
+                    AgriEnergyConnect is a visionary initiative that bridges the gap between South Africa's agricultural sector
+                    and green energy technology providers. We're committed to fostering sustainable farming practices through
+                    innovative energy solutions that reduce costs, increase efficiency, and protect our environment.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5" id="features">
+    <div class="container">
+        <h2 class="text-center section-title">How We Help</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <i class="bi bi-lightning-charge feature-icon"></i>
+                        <h3 class="h4">Energy Solutions</h3>
+                        <p>
+                            Connect with providers of solar, wind, and bioenergy systems tailored for agricultural needs.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <i class="bi bi-cash-coin feature-icon"></i>
+                        <h3 class="h4">Cost Savings</h3>
+                        <p>
+                            Reduce operational costs with renewable energy systems and government incentive programs.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <i class="bi bi-people feature-icon"></i>
+                        <h3 class="h4">Community</h3>
+                        <p>
+                            Join a network of farmers sharing best practices in sustainable agriculture and energy use.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h2 class="section-title">Why Choose AgriEnergyConnect?</h2>
+                <ul class="list-unstyled">
+                    <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i> Verified energy providers with agricultural expertise</li>
+                    <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i> Customized solutions for different farm sizes</li>
+                    <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i> Financing options and government subsidy guidance</li>
+                    <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i> Ongoing support and maintenance services</li>
+                    <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i> Data-driven insights for energy optimization</li>
+                </ul>
+            </div>
+            <div class="col-lg-6">
+                <img src="https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                     alt="Solar panels on farm" class="img-fluid rounded shadow">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5" id="stats">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-3">
+                <div class="stats-number">150+</div>
+                <div class="stats-label">Farmers Connected</div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-number">40%</div>
+                <div class="stats-label">Average Energy Savings</div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-number">25</div>
+                <div class="stats-label">Energy Providers</div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-number">1000+</div>
+                <div class="stats-label">Acres Impacted</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5 bg-light" id="contact">
+    <div class="container">
+        <h2 class="text-center section-title">Get In Touch</h2>
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <form>
+                    <div class="mb-3">
+                        <input type="text" class="form-control" placeholder="Your Name">
+                    </div>
+                    <div class="mb-3">
+                        <input type="email" class="form-control" placeholder="Your Email">
+                    </div>
+                    <div class="mb-3">
+                        <textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100 cta-button">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

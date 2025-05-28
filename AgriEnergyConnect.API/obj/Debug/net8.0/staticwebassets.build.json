@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5eRrpk07jJG7sCH+4wuyGGPH1Sy4VI/n+gshK+TDUy8=",
+  "Source": "AgriEnergyConnect.API",
+  "BasePath": "_content/AgriEnergyConnect.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

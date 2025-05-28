@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - AgriEnergyConnect</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+	<!-- Your style content here -->
+	@RenderSection("Styles", required: false)
+
+    <style>
+        :root {
+            --primary-color: #2e7d32; /* Green */
+            --secondary-color: #0288d1; /* Blue */
+            --accent-color: #ffab00; /* Gold */
+        }
+
+        .hero-section {
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 8rem 0;
+            text-align: center;
+        }
+
+        .hero-title {
+            font-weight: 700;
+            font-size: 3.5rem;
+            margin-bottom: 1.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .hero-subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            background-color: var(--accent-color);
+            color: #333;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            border: none;
+        }
+
+            .cta-button:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            }
+
+        .feature-card {
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            height: 100%;
+            border: none;
+        }
+
+            .feature-card:hover {
+                transform: translateY(-10px);
+            }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+
+        .mission-section {
+            background-color: #f8f9fa;
+            padding: 5rem 0;
+        }
+
+        .section-title {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 2rem;
+            position: relative;
+            display: inline-block;
+        }
+
+            .section-title:after {
+                content: '';
+                position: absolute;
+                width: 50%;
+                height: 3px;
+                background-color: var(--accent-color);
+                bottom: -10px;
+                left: 0;
+            }
+
+        .stats-number {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+
+        .stats-label {
+            color: var(--secondary-color);
+            font-weight: 600;
+        }
+
+        .testimonial-card {
+            border-left: 4px solid var(--accent-color);
+        }
+
+        .footer {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+            .footer a {
+                color: var(--accent-color);
+            }
+
+        .navbar {
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--primary-color) !important;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <i class="bi bi-activity"></i> AgriEnergyConnect
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Home" asp-action="Dashboard">
+                                    <i class="bi bi-speedometer2"></i> Dashboard
+                                </a>
+                            </li>
+
+                            @if (User.IsInRole("Farmer"))
+                            {
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle text-dark" href="#" id="farmerDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <i class="bi bi-basket"></i> My Products
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="farmerDropdown">
+                                        <li>
+                                            <a class="dropdown-item" asp-controller="Product" asp-action="MyProducts">
+                                                <i class="bi bi-list-ul"></i> View Products
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-controller="Product" asp-action="Create">
+                                                <i class="bi bi-plus-circle"></i> Add Product
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            }
+
+                            @if (User.IsInRole("Employee"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-controller="Employee" asp-action="CreateFarmer">
+                                        <i class="bi bi-grid"></i> Create a Farmer
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-controller="Employee" asp-action="FilteredProducts">
+                                        <i class="bi bi-person-lines-fill"></i> View Farmers
+                                    </a>
+                                </li>
+                            }
+
+                            @if (User.IsInRole("HR"))
+                            {
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle text-dark" href="#" id="hrDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <i class="bi bi-tools"></i> HR Tools
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="hrDropdown">
+                                        <li>
+                                            <a class="dropdown-item" asp-controller="Farmer" asp-action="Index">Manage Farmers</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-controller="Employee" asp-action="Index">Manage Employees</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-controller="Reports" asp-action="Index">Reports</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            }
+                        }
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#features">Features</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>AgriEnergyConnect</h5>
+                    <p>Empowering South African agriculture through sustainable energy solutions.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Contact Us</h5>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-envelope me-2"></i> info@agrienergyconnect.co.za</li>
+                        <li><i class="bi bi-phone me-2"></i> +27 12 345 6789</li>
+                        <li><i class="bi bi-geo-alt me-2"></i> Pretoria, South Africa</li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="mt-4" style="border-color: rgba(255,255,255,0.1);">
+            <div class="text-center">
+                &copy; @DateTime.Now.Year - AgriEnergyConnect. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AgriEnergyConnect.API",
+    "\\AgriEnergyConnect.API\\Controllers",
+    "\\AgriEnergyConnect.API\\Data",
+    "\\AgriEnergyConnect.API\\Models"
+  ],
+  "SelectedNode": "\\AgriEnergyConnect.API\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}

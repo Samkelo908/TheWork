@@ -1,0 +1,157 @@
+﻿@model CreateFarmerModel
+
+@{
+    ViewData["Title"] = "Create New Farmer";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-success text-white">
+                    <h2 class="h4 mb-0"><i class="bi bi-person-plus me-2"></i> Create New Farmer</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="CreateFarmer" method="post" class="needs-validation" novalidate>
+                        <div class="row g-3">
+                            
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Name" class="form-control" placeholder="Farmer Name" required />
+                                    <label asp-for="Name" class="form-label"></label>
+                                    <span asp-validation-for="Name" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+                           
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Email" type="email" class="form-control" placeholder="Email Address" required />
+                                    <label asp-for="Email" class="form-label"></label>
+                                    <span asp-validation-for="Email" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+                            
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="PhoneNumber" class="form-control" placeholder="Phone Number" required />
+                                    <label asp-for="PhoneNumber" class="form-label"></label>
+                                    <span asp-validation-for="PhoneNumber" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+                           
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <select asp-for="Region" class="form-select" required>
+                                        <option value="">Select Region</option>
+                                        <option value="Eastern Cape">Eastern Cape</option>
+                                        <option value="Free State">Free State</option>
+                                        <option value="Gauteng">Gauteng</option>
+                                        <option value="KwaZulu-Natal">KwaZulu-Natal</option>
+                                        <option value="Limpopo">Limpopo</option>
+                                        <option value="Mpumalanga">Mpumalanga</option>
+                                        <option value="North West">North West</option>
+                                        <option value="Northern Cape">Northern Cape</option>
+                                        <option value="Western Cape">Western Cape</option>
+                                    </select>
+                                    <label asp-for="Region" class="form-label"></label>
+                                    <span asp-validation-for="Region" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+
+                            
+                            <div class="col-12 mt-2">
+                                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                    <button type="submit" class="btn btn-success me-md-2 px-4 py-2">
+                                        <i class="bi bi-check-circle-fill me-2"></i>Create Farmer
+                                    </button>
+                                    <a asp-action="Index" class="btn btn-outline-secondary px-4 py-2">
+                                        <i class="bi bi-x-circle me-2"></i>Cancel
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            border-radius: 10px;
+            border: none;
+            overflow: hidden;
+        }
+
+        .card-header {
+            border-radius: 10px 10px 0 0 !important;
+        }
+
+        .form-floating {
+            position: relative;
+        }
+
+            .form-floating > label {
+                color: #6c757d;
+                padding: 0.5rem 0.75rem;
+            }
+
+        .form-control, .form-select {
+            border-radius: 8px;
+            padding: 1rem 0.75rem;
+            border: 1px solid #ced4da;
+            transition: all 0.3s ease;
+        }
+
+            .form-control:focus, .form-select:focus {
+                border-color: #2e7d32;
+                box-shadow: 0 0 0 0.25rem rgba(46, 125, 50, 0.25);
+            }
+
+        .btn-success {
+            background-color: #2e7d32;
+            border: none;
+            transition: all 0.3s ease;
+        }
+
+            .btn-success:hover {
+                background-color: #1b5e20;
+                transform: translateY(-2px);
+            }
+    </style>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        
+        (function () {
+            'use strict'
+
+            
+            var forms = document.querySelectorAll('.needs-validation')
+
+           
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
+}
